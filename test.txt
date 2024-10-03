@@ -11,5 +11,4 @@ Another Change
 Fork lets you have the updated versions of the repo you forked, with a sync.
 
 
-
-
+forking is copying someone else's work... Clone is bringing it to your local machine
